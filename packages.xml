@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+    <package>
+        <name>trusts</name>
+        <version>1.0.0.0</version>
+        <type>addon</type>
+        <dependencies>
+            <!-- empty -->
+        </dependencies>
+        <files>
+            <file>trusts/manifest.xml</file>
+            <file>trusts/trusts.xml</file>
+        </files>
+    </package>
+</packages>
