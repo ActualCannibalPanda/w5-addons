@@ -9,7 +9,7 @@
         </dependencies>
         <files>
             <file>trusts/manifest.xml</file>
-            <file>trusts/trusts.xml</file>
+            <file>trusts/trusts.lua</file>
         </files>
     </package>
 </packages>
